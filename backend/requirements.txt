@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn==0.23.2
+python-dotenv
+openai
+pydantic
+sqlalchemy
+python-multipart
+tiktoken
+chromadb
+lxml # For docx parsing
+python-docx # For docx parsing
+pypdf # For pdf parsing
+langchain # For document loading, splitting, and ChromaDB integration
+langchain-chroma # For updated ChromaDB integration
+numpy
+tenacity
+anyio
